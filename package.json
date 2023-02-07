@@ -1,0 +1,14 @@
+{
+  "name": "engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mime-types": "^2.1.35"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
